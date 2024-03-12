@@ -1,0 +1,5 @@
+NomeDoMC "Essa fala vai ser do personagem lá, muito doidoooo"
+
+Geral "Essa fala é para uso geral. Tipo ler um documento ou placa"
+
+Narrador "Oie, esse vai ser o texto do narrador"

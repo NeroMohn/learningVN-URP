@@ -24,7 +24,7 @@ namespace TESTING
         {
             _dialogueSystem = DialogueSystem.instance;
             _textArchitect = new TextArchitect(_dialogueSystem.dialogueContainer.dialogueText);
-            _textArchitect.buildMethod = TextArchitect.BuildMethod.fade;
+            _textArchitect.buildMethod = TextArchitect.BuildMethod.typewriter;
         }
 
         private void Update()
